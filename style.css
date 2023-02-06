@@ -1,0 +1,17 @@
+body {
+    background-color: lightblue;
+    }
+    
+    h1 {
+    color: rgba(117, 29, 155, 0.681);
+    text-align: center; 
+    }
+    
+    h2 {
+    color: rgba(196, 85, 146, 0.895);
+    }
+        
+    p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    }
